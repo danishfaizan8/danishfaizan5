@@ -1,6 +1,7 @@
 # Hi, I'm Danish Faizan Mohammed 👋
 **Software Engineer | 🎓 MS CS Grad Student at Illinois Tech!**  
 
+
 **About Me:**
 
 I am a passionate software developer with a strong background in computer science. Currently pursuing my Master's degree at Illinois Tech, I am eager to solve complex problems and build scalable, high-performance systems. I have experience with full-stack development, cloud technologies, and system design, and I am constantly learning to stay up-to-date with the latest advancements in the tech industry.
